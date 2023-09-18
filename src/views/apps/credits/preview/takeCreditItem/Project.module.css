@@ -1,0 +1,112 @@
+.modalStyle{
+    transition: 0.3s !important;
+ }
+ .modalStyle:hover{
+   background: rgb(228, 227, 227) !important;
+ }
+ .LogoIcon{
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+.TableBtn{
+    width: 30px !important;
+    height: 30px !important;
+    border: 1px solid grey;
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    border-radius: 50%;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modalHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    
+  }
+  .modalHeadBtn2{
+    width: 100px !important;
+    height: 31px !important;
+    font-size: 12px !important;
+    font-weight: 700;
+  }
+  .modalHeadBtn{
+    border: 2px solid grey !important;
+    color: grey  !important;
+    width: 100px;
+    height: 30px;
+    font-size: 12px !important;
+    font-weight: 700;
+    }
+  .modalHeadDec{
+    font-size: 12px;
+  }
+  .modalHeadBtn:hover{
+    border: 2px solid #6969ed !important;
+    color: #6969ed !important;
+  }
+  .modalList li{
+    color:#b3b0b0 !important;
+    font-size: 14px;
+  }
+  .modalList2 li{
+    color:#4d4c4c !important;
+    font-size: 14px;
+    font-weight: 700;
+    
+    
+  }
+  .modalCards{
+     background: #e2dfdf !important;
+     width: 280px;
+     height: 150px;
+     text-align: center;
+     padding: 10px;
+     border-radius: 12px;
+  }
+  .modalCards p{
+    width: 270px;
+    font-size: 14px !important;
+    font-weight: 700;
+    margin-top: -9px !important;
+  }
+  .modalCards span{
+    font-size: 12px !important;
+    font-weight: 700;
+  }
+  .modalnput{
+    border: 2px solid rgb(171, 169, 169);
+    outline-color:#6969ed ;
+    width: 430px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 15px;
+    font-size: 14px;
+  }
+  .modaDownBlock{
+     border: 2px solid rgb(216, 216, 216);
+     width: 280px;
+     height: 85 !important;
+     border-radius:12px ;
+     text-align: center;
+     margin-top: -60px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
